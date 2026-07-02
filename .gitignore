@@ -1,0 +1,12 @@
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Dependencies (再生成可能なため管理対象外)
+node_modules/
+
+# Environment variables
+.env
+
+# Chrome拡張の秘密鍵（機微情報のため管理対象外）
+*.ppk
