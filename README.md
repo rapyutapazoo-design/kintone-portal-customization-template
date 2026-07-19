@@ -1,5 +1,8 @@
 # Kintone Portal Customization Template
 
+⬇️ リポジトリ全体を一括ダウンロード：
+[![ZIPダウンロード](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge)](https://github.com/rapyutapazoo-design/kintone-portal-customization-template/archive/refs/heads/main.zip)
+
 [Kintone-portal-customization](https://github.com/rapyutapazoo-design/Kintone-portal-customization)（非公開・開発用リポジトリ）の**公開テンプレート版**です。
 
 このリポジトリには、実際のアプリID・組織コード・グループコードなど**固有情報を一切含みません**。すべてプレースホルダーに置き換えられています。他の組織でこれらのKintoneカスタマイズを流用する場合は、このリポジトリの内容をベースにしてください。
